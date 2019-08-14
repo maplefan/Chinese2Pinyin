@@ -3,12 +3,12 @@
 
 
 全是汉字的情况：
-!(https://github.com/maplefan/Chinese2Pinyin/blob/master/screenshot/no1.png)
+![全是汉字的情况](https://github.com/maplefan/Chinese2Pinyin/blob/master/screenshot/no1.png)
 
 
 汉字中带有英文的情况：
-!(https://github.com/maplefan/Chinese2Pinyin/blob/master/screenshot/no2.png)
+![汉字中带有英文的情况](https://github.com/maplefan/Chinese2Pinyin/blob/master/screenshot/no2.png)
 
 
 重复多音字的情况：
-!(https://github.com/maplefan/Chinese2Pinyin/blob/master/screenshot/no3.png)
+![重复多音字的情况](https://github.com/maplefan/Chinese2Pinyin/blob/master/screenshot/no3.png)
